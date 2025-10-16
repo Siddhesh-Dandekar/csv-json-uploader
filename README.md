@@ -28,7 +28,7 @@ Built with:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/siddhesh/csv-json-uploader.git
+git clone https://github.com/Siddhesh-Dandekar/csv-json-uploader
 cd csv-json-uploader
 ```
 
